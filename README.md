@@ -1,19 +1,19 @@
 # <p align="center"> ⚡ `std::cout << "Hello, I'm Ramsha!" << std::endl;` ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=while(challenges)+{+solve(problems);+};if(bug_found)+{+search_and_destroy();+};std::cout+%3C%3C+%22Thinking+in+Algorithms...%22+%3C%3C+std::endl;;High+performance%2C+low+latency.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Developer+in+Progress...;while(challenges)+{+solve(problems);+};if(bug_found)+{+search_and_destroy();+};std::cout+%3C%3C+%22Thinking+in+Algorithms...%22+%3C%3C+std::endl;;High+performance%2C+low+latency.">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER_IN_PROGRESS-00FFFF?style=for-the-badge&logoColor=black" /> 
   <img src="https://img.shields.io/badge/C%2B%2B_ARCHITECT-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img src="https://img.shields.io/badge/ASM_COAL-000000?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/FULL_STACK_DEV-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Developer Inventory (Skill Stats)
-*How I've allocated my skill points so far:*
+*Allocating points into Full-Stack and Systems Engineering:*
 
 * **C++ Core Logic** ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
 * **Assembly 8086 (Low Level)** ![Progress](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
@@ -23,14 +23,14 @@
 ---
 
 ### 🕹️ Project Quest Log
-*Successfully completed and deployed missions:*
+*Successfully completed missions:*
 
 | Project | Status | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **🧱 BrickZilla** | `v1.0 Deployed` | Assembly 8086 | COAL project: A low-level brick breaker. |
-| **💳 Cash-Flow** | `In Optimization` | C# / SQL Server | Banking system with GUI & DB integration. |
-| **🪓 Hangman** | `Stable` | C++ / File I/O | File-based word guessing game. |
-| **❌ Tic-Tac-Toe** | `Stable` | C++ | 2D Array-based logic & win-condition checking. |
+| **🧱 BrickZilla** | `v1.0 Deployed` | Assembly 8086 | High-speed brick breaker game (COAL). |
+| **💳 Cash-Flow** | `In Optimization` | C# / SQL Server | Banking system with secure DB handling. |
+| **🪓 Hangman** | `Stable` | C++ / File I/O | Dynamic word bank using file handling. |
+| **❌ Tic-Tac-Toe** | `Stable` | C++ | Logic-based 2D array implementation. |
 
 ---
 
@@ -44,4 +44,4 @@
 
 ### 📫 Transmission
 * **User:** [iam-ramshakhalid](https://github.com/iam-ramshakhalid)
-* **Current Objective:** Integrating web frontends with backend C++ logic.
+* **Status:** Actively learning and building.
