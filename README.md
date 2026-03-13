@@ -1,7 +1,7 @@
 # <p align="center"> ⚡ `std::cout << "Hello, I'm Ramsha!" << std::endl;` ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Developer+in+Progress...;Fetching+system_logic.dll...;Accessing+8086+Instruction+Set...;Mapping+Data_Structures+to_Memory...;Compiling+the+future+with+C%2B%2B...;Status:+Building+Scalable+Solutions.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Developer+in+Progress...;while(problems_exist)+{+solve();+};Constructing+Complex+Logic+Architectures...;Compiling+the+Future+with+Code...;Status:+Building+Scalable+Solutions.">
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@
 ---
 
 ### 🕹️ Project Quest Log
-*Current missions completed:*
+*Successfully completed missions:*
 
 | Project | Status | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **🧱 BrickZilla** | `v1.0 Deployed` | Assembly 8086 | COAL Project: High-speed brick breaker. |
+| **🧱 BrickZilla** | `v1.0 Deployed` | Assembly 8086 | High-speed brick breaker game (COAL). |
 | **💳 Cash-Flow** | `In Optimization` | C# / SQL Server | Banking system with secure DB handling. |
 | **🪓 Hangman** | `Stable` | C++ / File I/O | Dynamic word bank using file handling. |
 | **❌ Tic-Tac-Toe** | `Stable` | C++ | Logic-based 2D array implementation. |
