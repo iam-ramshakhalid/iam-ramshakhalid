@@ -12,27 +12,29 @@
 
 ---
 
-### 📂 The Developer's Inventory
-| Skill | Level | Mastery |
-| :--- | :--- | :--- |
-| **C++ Core** | `[ ||||||||-- ]` | OOP, File I/O, Data Structures |
-| **Web Dev** | `[ |||||----- ]` | HTML5, CSS3, Responsive Layouts |
-| **Low Level** | `[ |||||||--- ]` | 8086 Assembly, Interrupts (ISRs) |
-| **Database** | `[ ||||||---- ]` | SQL Server, Relational Design |
+### 📂 Developer Inventory (Skill Stats)
+*How I've allocated my skill points so far:*
+
+* **C++ Core Logic** ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Assembly 8086 (Low Level)** ![Progress](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Web Dev (HTML/CSS)** ![Progress](https://geps.dev/progress/55?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Database / SQL** ![Progress](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
 
 ---
 
 ### 🕹️ Project Quest Log
+*Successfully completed and deployed missions:*
 
-| Project | Status | Description |
-| :--- | :--- | :--- |
-| **🧱 BrickZilla** | `v1.0 Deployed` | Assembly 8086 brick breaker game. |
-| **💳 Cash-Flow** | `In Optimization` | C# / SQL Banking Management System. |
-| **🪓 Hangman** | `Stable` | C++ console game with file-based word banks. |
+| Project | Status | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **🧱 BrickZilla** | `v1.0 Deployed` | Assembly 8086 | COAL project: A low-level brick breaker. |
+| **💳 Cash-Flow** | `In Optimization` | C# / SQL Server | Banking system with GUI & DB integration. |
+| **🪓 Hangman** | `Stable` | C++ / File I/O | File-based word guessing game. |
+| **❌ Tic-Tac-Toe** | `Stable` | C++ | 2D Array-based logic & win-condition checking. |
 
 ---
 
-### 📊 Performance Metrics
+### 📊 System Performance
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iam-ramshakhalid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ramshakhalid&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
@@ -41,5 +43,5 @@
 ---
 
 ### 📫 Transmission
-* **Signal:** [iam-ramshakhalid](https://github.com/iam-ramshakhalid)
-* **Objective:** Land a software engineering internship to apply systems logic.
+* **User:** [iam-ramshakhalid](https://github.com/iam-ramshakhalid)
+* **Current Objective:** Integrating web frontends with backend C++ logic.
