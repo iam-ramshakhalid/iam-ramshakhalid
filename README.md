@@ -9,31 +9,42 @@
   <img src="https://img.shields.io/badge/DATABASE-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/FULL_STACK_DEV-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+
 ---
-📂 Developer Inventory (Skill Stats)
-Allocating points into Systems Engineering & Web Architecture:
-C++ Core Logic ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-Java (Web Apps) ![Progress](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-Assembly 8086 (Low Level) ![Progress](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-Database / SQL ![Progress](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
-Web Dev (HTML/CSS) ![Progress](https://geps.dev/progress/55?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
+### 📂 Developer Inventory (Skill Stats)
+*Allocating points into Systems Engineering & Web Architecture:*
+
+* **C++ Core Logic** ![Progress](https://geps.dev/progress/85?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Java (Web Apps)** ![Progress](https://geps.dev/progress/75?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Assembly 8086 (Low Level)** ![Progress](https://geps.dev/progress/70?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Database / SQL** ![Progress](https://geps.dev/progress/65?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+* **Web Dev (HTML/CSS)** ![Progress](https://geps.dev/progress/55?dangerColor=800080&warningColor=ff00ff&successColor=00ffff)
+
 ---
-🕹️ Project Quest Log
-Successfully completed missions:
-Project	Status	Tech Stack	Description
-🧠 Smart Queue Management System	`Completed`	Java (Web App)	Web-based system for managing and optimizing queues in real time.
-🔀 Proxy System	`Completed`	Java (Web App)	Java-based proxy server web app handling request routing and traffic management.
-🧱 BrickZilla	`Completed`	Assembly 8086	High-speed brick breaker game (COAL).
-💳 Cash-Flow	`Completed`	C# / SQL Server	Banking system with secure DB handling.
-🪓 Hangman	`Completed`	C++ / File I/O	Dynamic word bank using file handling.
-❌ Tic-Tac-Toe	`Completed`	C++	Logic-based 2D array implementation.
+
+### 🕹️ Project Quest Log
+*Successfully completed missions:*
+
+| Project | Status | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **🧠 Smart Queue Management System** | `Completed` | Java (Web App) | Web-based system for managing and optimizing queues in real time. |
+| **🔀 Proxy System** | `Completed` | Java (Web App) | Java-based proxy server web app handling request routing and traffic management. |
+| **🧱 BrickZilla** | `Completed` | Assembly 8086 | High-speed brick breaker game (COAL). |
+| **💳 Cash-Flow** | `Completed` | C# / SQL Server | Banking system with secure DB handling. |
+| **🪓 Hangman** | `Completed` | C++ / File I/O | Dynamic word bank using file handling. |
+| **❌ Tic-Tac-Toe** | `Completed` | C++ | Logic-based 2D array implementation. |
+
 ---
-📊 System Performance
+
+### 📊 System Performance
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=iam-ramshakhalid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ramshakhalid&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
+
 ---
-📫 Transmission
-User: iam-ramshakhalid
-Status: Actively learning and building.
+
+### 📫 Transmission
+* **User:** [iam-ramshakhalid](https://github.com/iam-ramshakhalid)
+* **Status:** Actively learning and building.
